@@ -1,4 +1,5 @@
 <?php
 
-echo "Hello World!";
+echo "Hello World from Azure!";
+echo "Pls WORK!!!!!"
 ?>

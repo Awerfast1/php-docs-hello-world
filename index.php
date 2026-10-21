@@ -11,6 +11,6 @@ $message = "Successfully deployed to Azure!";
 </head>
 <body>
     <h1><?php echo $message; ?></h1>
-    <p>This page is running on Azure App Service.</p>
+    <p>This page is running on Azure App Service. Pls work pls</p>
 </body>
 </html>
